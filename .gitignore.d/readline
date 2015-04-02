@@ -1,0 +1,4 @@
+*
+!/.inputrc
+!/.gitignore.d/
+!/.gitignore.d/readline
