@@ -6,3 +6,5 @@ set show-all-if-ambiguous on
 "\e[B": history-search-forward
 
 set bell-style visible
+
+"\ep":	unix-filename-rubout
